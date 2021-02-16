@@ -1,0 +1,45 @@
+<!--
+  ~ Copyright (C) 2018 Google Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Whats is Astronomy?</string>
+    <string name="article_subtitle">Definitions and History</string>
+    <string name="article_text"><br>Humans have long gazed toward the heavens, searching to put meaning and order to the universe around them. Although the movement of constellations — patterns imprinted on the night sky — were the easiest to track, other celestial events such as eclipses and the motion of planets were also charted and predicted.
+        Definition of astronomy: Astronomy is the study of the sun, moon, stars, planets, comets, gas, galaxies, gas, dust and other non-Earthly bodies and phenomena. In curriculum for K-4 students, NASA defines astronomy as simple "the study of stars, planets and space." Astronomy and astrology were historically associated, but astrology is not a science and is no longer recognized as having anything to do with astronomy. Below we discuss the history of astronomy and related fields of study, including cosmology.</br>
+            Historically, astronomy has focused on observations of heavenly bodies. It is a close cousin to astrophysics. Succinctly put, astrophysics involves the study of the physics of astronomy and concentrates on the behavior, properties and motion of objects out there. However, modern astronomy includes many elements of the motions and characteristics of these bodies, and the two terms are often used interchangeably today.
+
+        <br>Modern astronomers tend to fall into two fields: the <b>theoretical</b> and the <b>observational</b>.</br>
+        <br>•   Observational astronomers focus on direct study of stars, planets, galaxies, and so forth.</br>
+        <br>•   Theoretical astronomers model and analyze how systems may have evolved.</br>
+Unlike most other fields of science, astronomers are unable to observe a system entirely from birth to death; the lifetime of worlds, stars, and galaxies span millions to billions of years. Instead, astronomers must rely on snapshots of bodies in various stages of evolution to determine how they formed, evolved and died. Thus, theoretical and observational astronomy tend to blend together, as theoretical scientists use the information actually collected to create simulations, while the observations serve to confirm the models — or to indicate the need for tweaking them.
+
+        <br>Astronomy is broken down into a number of subfields, allowing scientists to specialize in particular objects and phenomena.</br>
+        <br>•   <b>Planetary astronomers</b> (also called planetary scientists) focus on the growth, evolution, and death of planets. While most study the worlds inside the solar system, some use the growing body of evidence about planets around other stars to hypothesize what they might be like. According to the University College London, planetary science "is a cross-discipline field including aspects of astronomy, atmospheric science, geology, space physics, biology and chemistry."</br>
+
+        <br>•   <b>Stellar astronomers</b> turn their eyes to the stars, including the black holes, nebulae, white dwarfs and supernova that survive stellar deaths. The University of California, Los Angeles, says, "The focus of stellar astronomy is on the physical and chemical processes that occur in the universe."</br>
+
+        <br>•   <b>Solar astronomers</b> spend their time analyzing a single star — our sun. According to NASA, "The quantity and quality of light from the sun varies on time scales from milli-seconds to billions of years." Understanding those changes can help scientists recognize how Earth is affected. The sun also helps us to understand how other stars work, as it is the only star close enough to reveal details about its surface.</br>
+
+        <br>•   <b>Galactic astronomers</b> study our galaxy, the Milky Way, while extragalactic astronomers peer outside of it to determine how these collections of stars form, change, and die. The University of Wisconsin-Madison says, "Establishing patterns in the distribution, composition, and physical conditions of stars and gas traces the history of our evolving home galaxy."</br>
+
+•   <b>Cosmologists</b> focus on the universe in its entirety, from its violent birth in the Big Bang to its present evolution, all the way to its eventual death. Astronomy is often (not always) about very concrete, observable things, whereas cosmology typically involves large-scale properties of the universe and esoteric, invisible and sometimes purely theoretical things like string theory, dark matter and dark energy, and the notion of multiple universes.
+
+
+
+
+</string>
+</resources>
