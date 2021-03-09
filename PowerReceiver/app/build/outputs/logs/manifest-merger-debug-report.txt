@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\566591cbbd8e588d5438085dc8855590\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2b8b82d2e7b71d14a9da7deec79bdbac\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f0754b740a5aea8e338e57d2a48bdda7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6587aa3b302f8f63c0423fb297d63224\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\53d9214e3f8e2ef9f8f66c4d640ceff2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8d72ddf67d58e8dd74e900602ce5d800\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c0a05a0de9a309f4890c46b26b228231\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\98cd8322276195c3d343347dba35c32b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\830544fd39999001b53486009c45a78c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f44194a5503bcbbb1d002ecb83e6f1e9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1c251d0f361121c96e9dcf5978c30b02\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\067a391174dff06482af8426c12aee18\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2b8b82d2e7b71d14a9da7deec79bdbac\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2b8b82d2e7b71d14a9da7deec79bdbac\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.android.fundamentals.powerreceiver.MainActivity
+ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\566591cbbd8e588d5438085dc8855590\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\566591cbbd8e588d5438085dc8855590\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2b8b82d2e7b71d14a9da7deec79bdbac\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2b8b82d2e7b71d14a9da7deec79bdbac\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f0754b740a5aea8e338e57d2a48bdda7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f0754b740a5aea8e338e57d2a48bdda7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6587aa3b302f8f63c0423fb297d63224\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6587aa3b302f8f63c0423fb297d63224\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\53d9214e3f8e2ef9f8f66c4d640ceff2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\53d9214e3f8e2ef9f8f66c4d640ceff2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8d72ddf67d58e8dd74e900602ce5d800\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8d72ddf67d58e8dd74e900602ce5d800\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c0a05a0de9a309f4890c46b26b228231\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c0a05a0de9a309f4890c46b26b228231\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\98cd8322276195c3d343347dba35c32b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\98cd8322276195c3d343347dba35c32b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\830544fd39999001b53486009c45a78c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\830544fd39999001b53486009c45a78c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f44194a5503bcbbb1d002ecb83e6f1e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f44194a5503bcbbb1d002ecb83e6f1e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1c251d0f361121c96e9dcf5978c30b02\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1c251d0f361121c96e9dcf5978c30b02\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\067a391174dff06482af8426c12aee18\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\067a391174dff06482af8426c12aee18\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ASUS\Downloads\Study Material\Mobile Application Developement\Assignments\PowerReceiver\app\src\main\AndroidManifest.xml
